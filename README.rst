@@ -15,6 +15,10 @@ http://stackoverflow.com/questions/15951748/pydot-and-graphviz-error-couldnt-imp
 
 PyPI project: https://pypi.python.org/pypi/pydot2
 
+Install with::
+
+    $ pip install pydot2
+
 
 pydot
 =====
