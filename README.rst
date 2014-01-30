@@ -13,6 +13,11 @@ That fork makes two different respect to mainstream:
 
 http://stackoverflow.com/questions/15951748/pydot-and-graphviz-error-couldnt-import-dot-parser-loading-of-dot-files-will
 
+PyPI project: https://pypi.python.org/pypi/pydot2
+
+
+pydot
+=====
 
 pydot - Python interface to Graphviz's Dot language
 Ero Carrera (c) 2004-2007
