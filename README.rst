@@ -3,7 +3,10 @@ warnning
 
 UNOFICCIAL repository. Main repository is: https://code.google.com/p/pydot/source/checkout
 
-That fork apply a patch to make pydot be able to work with pyparsing >= 2:
+That fork makes two different respect to mainstream:
+
+* It support python-3.x
+* It includes a patch to make pydot be able to work with pyparsing >= 2:
 
 http://stackoverflow.com/questions/15951748/pydot-and-graphviz-error-couldnt-import-dot-parser-loading-of-dot-files-will
 
@@ -36,4 +39,3 @@ Needless to say, no installation is needed just to use the module. A mere:
 
 should do it, provided that the directory containing the modules is on Python
 module search path.
-
