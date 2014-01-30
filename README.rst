@@ -1,5 +1,8 @@
-warnning
---------
+pydot2
+======
+
+warnning:
+---------
 
 UNOFICCIAL repository. Main repository is: https://code.google.com/p/pydot/source/checkout
 
