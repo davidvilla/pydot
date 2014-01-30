@@ -6,7 +6,7 @@ warnning:
 
 UNOFICCIAL repository. Main repository is: https://code.google.com/p/pydot/source/checkout
 
-That fork makes two different respect to mainstream:
+That fork makes two changes respect to mainstream:
 
 * It support python-3.x
 * It includes a patch to make pydot be able to work with pyparsing >= 2:
